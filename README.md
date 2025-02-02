@@ -186,5 +186,5 @@ There are several channels where you can find help and support for QGIS:
 - [Other support channels](https://qgis.org/resources/support/)
 
 ## Get involved with the community
-test
+test78
 [Contribution guidelines for this project](CONTRIBUTING.md)
